@@ -101,9 +101,12 @@ class RecipeCard extends HTMLElement {
     // created in the constructor()
 
     // Part 1 Expose - TODO
-    console.log(data);
     const image = document.createElement('img');
-    const imgUrl = searchForKey(data, 'thumbnailUrl');
+    let imgUrl = searchForKey(data, 'thumbnailUrl');
+    if(imgUrl == undefined) {
+      imgUrl = searchForKey(data, 'url');
+    }
+
     image.setAttribute('src', imgUrl);
     image.setAttribute('alt', "Recipe Title");
     card.appendChild(image);
@@ -111,7 +114,11 @@ class RecipeCard extends HTMLElement {
     const title = document.createElement('p');
     title.className = "title";
     const titleLink = document.createElement('a');
-    titleLink.href = getUrl(data);
+    let u = getUrl(data);
+    if(u == null) {
+      u = searchForKey(data, "mainEntityOfPage")['@id'];
+    }
+    titleLink.href = u;
     titleLink.innerText = searchForKey(data, 'headline');
     title.appendChild(titleLink);
     card.appendChild(title);

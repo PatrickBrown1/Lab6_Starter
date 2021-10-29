@@ -1,0 +1,183 @@
+{
+    "@context": "http://schema.org",
+
+    "@type": ["Recipe", "NewsArticle"],
+    "headline": "Double Chocolate Chip Cookies",
+    "datePublished": "2021-10-11T11:58:13.026-04:00",
+    "dateModified": "2021-10-11T11:58:13.026-04:00",
+    "author": [{
+        "@type": "Person",
+        "name": "Hannah Zimmerman",
+        "description": "Hannah is the recipe developer and photographer behind Bite Sized Studio, founded in 2018 She has worked with brands and publications across the U.S. ",
+        "sameAs": [
+            "https://www.instagram.com/bitesizedstudio/",
+            "https://www.simplyrecipes.com/hannah-zimmerman-5195688"
+        ],
+        "knowsAbout": ["Baking, Nutritious meals"],
+        "alumniOf": [{
+            "@type": "Organization",
+            "Name": "NYU, Nutrition & Dietetics Program"
+        }]
+    }],
+    "description": "If you can’t get enough chocolate, these Double Chocolate Chip Cookies are for you! They are crispy on the outside and chewy on the inside, and each bite is full of rich, decadent, chocolatey flavor.",
+    "image": [{
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/DyKqnLlSxYeusytigY2R71OT8Bg=/5505x3097/smart/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-LEAD-6-08efe11aa07e4fdfaa9828638ad9baec.jpg",
+            "height": 3097,
+            "width": 5505
+        },
+        {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/Ba1bjOTgGFOmXw1JdXKPrMT6nAM=/4893x3670/smart/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-LEAD-6-08efe11aa07e4fdfaa9828638ad9baec.jpg",
+            "height": 3670,
+            "width": 4893
+        },
+        {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/Eox79wQLiHb82cQeEMqhxC2cQ-k=/3670x3670/smart/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-LEAD-6-08efe11aa07e4fdfaa9828638ad9baec.jpg",
+            "height": 3670,
+            "width": 3670
+        }
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Simply Recipes",
+        "url": "https://www.simplyrecipes.com",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+            "width": 1125,
+            "height": 320
+        },
+        "brand": "Simply Recipes",
+        "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+    },
+    "name": "Double Chocolate Chip Cookies",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "4"
+    },
+    "cookTime": "PT12M",
+    "keywords": "chocolate chips, chocolate, cocoa powder, butter, all-purpose flour, natural cocoa powder, double chocolate chip cookies, chocolate chocolate chip cookies, chewy chocolate chocolate cookies",
+    "prepTime": "PT15M",
+    "recipeCategory": ["Dessert"],
+    "recipeCuisine": ["American"],
+    "recipeIngredient": [
+        "1 1/4 cups (150g) all-purpose flour",
+        "1/2 cup (50g) natural cocoa powder (not Dutch-process)",
+        "3/4 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "3/4 cup unsalted butter, at room temperature",
+        "1/2 cup (100g) sugar",
+        "1/2 cup (100g) light brown sugar, packed",
+        "1 large egg plus 1 large egg yolk, at room temperature",
+        "1 teaspoon vanilla extract",
+        "1 cup (170g) semi-sweet chocolate chips"
+    ],
+    "recipeInstructions": [{
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/gBj2kSxazywBuOZeM9oVtFH4YeE=/5609x3739/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-METHOD-3-4e2292c040264da3ae1830597355b210.jpg",
+            "height": 3739,
+            "width": 5609
+        },
+        "text": "Combine the dry ingredients: In a medium bowl, mix the flour, cocoa powder, baking soda, and salt until combined. Set aside."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/mV36MEB63jEU9brxGyPPPav_27g=/5879x3919/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-METHOD-2-5eb3f8102277449f8747f06726f61130.jpg",
+            "height": 3919,
+            "width": 5879
+        },
+        "text": "Mix the butter and sugars: In a large bowl, add the butter and both sugars. Mix with a fork or whisk until just combined. You can also do this in a stand mixer with a paddle attachment."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/3LxOZ-8Fj_cYXXC6TDoFKxjt2iM=/5474x3649/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-METHOD-5-c98dd15f9ba14aefbed9b2c53ae03e52.jpg",
+            "height": 3649,
+            "width": 5474
+        },
+        "text": "Add the eggs and vanilla: Add the egg, egg yolk, and vanilla to the butter mixture and continue to mix until fully combined. You may need to scrape down the sides of the bowl with a rubber spatula to make sure that all the ingredients are incorporated."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/s0JDWplF41qO24lTek8MiN8USBo=/6000x4000/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-METHOD-6-329080a95ce040238f25f09e8b67121a.jpg",
+            "height": 4000,
+            "width": 6000
+        },
+        "text": "Add the dry ingredients: Dump the flour mixture into the butter mixture. Use a rubber spatula to fold the mixture until a smooth dough forms. If you are using a stand mixer, mix on low speed until just combined."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/peaxVs7nbuL5F94eszETGoFmo5o=/5822x3881/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-METHOD-7-6c410ac3ad3a4a56b92f11007043608e.jpg",
+            "height": 3881,
+            "width": 5822
+        },
+        "text": "Add the chocolate chips: Scrape down the sides of the bowl. Dump in the chocolate chips and mix the dough until the chocolate chips are evenly distributed."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/e9blcaoCtopP-Q3uKgdB6H26eE4=/5746x3831/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-METHOD-8-190da803cf0441ff8a100af2591cd614.jpg",
+            "height": 3831,
+            "width": 5746
+        },
+        "text": "Scoop and chill the dough: Scoop and roll the dough into 1-tablespoon balls and place them on a large plate. If the dough is too soft and sticky to roll into balls, you can chill it for 15 minutes. Cover with plastic wrap and place in the fridge to chill for at least 1 hour, up to 48 hours. You can skip the chill time, if necessary, but your cookies will come out thinner and less chewy."
+    }, {
+        "@type": "HowToStep",
+        "text": "Preheat the oven: When the dough only had about 15 minutes left to chill, preheat the oven to 350°F. Line a large baking sheet with parchment paper."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/DyeINz_BeRdHmb-yqH99cy4p6ns=/5807x3871/filters:no_upscale()/Simply-Recipes-Double-Chocolate-Cookies-LEAD-4-84f9307dd874453d9ac3b40a5ca1f8df.jpg",
+            "height": 3871,
+            "width": 5807
+        },
+        "text": "Bake the cookies: Place the cookies on the baking sheet at least 4 inches apart from one another. You may need to bake them in batches. Bake for 12 minutes."
+    }, {
+        "@type": "HowToStep",
+        "text": "Cool and serve: Let the cookies cool on the baking sheet for 5 to 10 minutes before serving and enjoying!"
+    }],
+    "recipeYield": "22",
+    "totalTime": "PT87M",
+    "mainEntityOfPage": {
+        "@type": ["WebPage"],
+        "@id": "https://www.simplyrecipes.com/double-chocolate-chip-cookies-recipe-5204978",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/cookie-recipes-5091468",
+                        "name": "Cookies"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/chocolate-chip-cookie-recipes-5091465",
+                        "name": "Chocolate Chip Cookies"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/double-chocolate-chip-cookies-recipe-5204978",
+                        "name": "Double Chocolate Chip Cookies"
+                    }
+                }
+            ]
+        }
+    },
+    "about": []
+}

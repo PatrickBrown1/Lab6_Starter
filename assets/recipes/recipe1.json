@@ -1,0 +1,181 @@
+{
+    "@context": "http://schema.org",
+
+    "@type": ["Recipe"],
+    "headline": "Dutch Apple Pie",
+    "datePublished": "2019-10-28T03:00:13.000-04:00",
+    "dateModified": "2021-02-16T12:22:38.168-05:00",
+    "author": [{
+        "@type": "Person",
+        "name": "Summer Miller",
+        "description": "Summer has worked in food media for the past 12 years as a recipe developer, recipe tester, food journalist, essayist, cookbook author, and public speaker. Her work has appeared in Eating Well, Saveur , Bon Appétit , Grit and Edible Communities publications among others. She started working with Simply Recipes in 2017. Her book, New Prairie Kitchen , won the Nebraska Book Award for non-fiction in 2016 and Epicurious noted it as a “Need to Read” cookbook.",
+        "jobTitle": "Senior Editor, Recipes",
+        "sameAs": [
+            "https://www.linkedin.com/in/summermillerwidhalm/",
+            "https://www.instagram.com/scaldedmilk_/",
+            "https://www.simplyrecipes.com/summer-miller-5091826"
+        ],
+        "knowsAbout": ["Recipe Development"],
+        "alumniOf": [{
+            "@type": "Organization",
+            "Name": "BA in English Linguistics, University of Nebraska"
+        }]
+    }],
+    "description": "Let the scent of apples, cinnamon, nutmeg, and clove fill the air while this crumble-topped Dutch Apple Pie bakes away in your oven. Fall has never tasted so good. You can also freeze and bake this pie when you’re ready.",
+    "image": [{
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/_Qygr4u9zdDQrnlUj_cwpYtPNRU=/2000x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__10__Dutch-Apple-Pie-LEAD-13-3174d81286424f50b13841e01afdd021.jpg",
+            "height": 1125,
+            "width": 2000
+        },
+        {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/QqeR0_8HNSnDor3ARNOV5aDMGpU=/1777x1333/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__10__Dutch-Apple-Pie-LEAD-13-3174d81286424f50b13841e01afdd021.jpg",
+            "height": 1333,
+            "width": 1777
+        },
+        {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/nVYdpYpuof8I6plrpoTVnS9PHVQ=/1333x1333/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__10__Dutch-Apple-Pie-LEAD-13-3174d81286424f50b13841e01afdd021.jpg",
+            "height": 1333,
+            "width": 1333
+        }
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Simply Recipes",
+        "url": "https://www.simplyrecipes.com",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+            "width": 1125,
+            "height": 320
+        },
+        "brand": "Simply Recipes",
+        "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+    },
+    "name": "Dutch Apple Pie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "2"
+    },
+    "keywords": "Baking, Make-ahead, American, Dessert, Christmas, Favorite Fall, Favorite Winter, Holiday, Thanksgiving",
+    "prepTime": "PT30M",
+    "recipeCategory": ["Dessert", "Baking", "Make-ahead"],
+    "recipeCuisine": ["American"],
+    "recipeIngredient": [
+        "For the pie:",
+        "1 single pie crust",
+        "3 pounds (8 cups, about 6-8 whole) apples, peeled, cored and thinly sliced",
+        "1/2 cup (100 g) sugar",
+        "1/4 cup (35g) flour",
+        "2 teaspoons lemon juice",
+        "1 1/2 teaspoons cinnamon",
+        "1/4 teaspoon freshly grated nutmeg",
+        "1/8 teaspoon ground cloves",
+        "For the topping:",
+        "3/4 cup (110 g) all-purpose flour",
+        "1/3 cup (40g) pecan pieces, chopped",
+        "3 tablespoons (35g) brown sugar",
+        "3 tablespoons (44g) granulated sugar",
+        "1/4 teaspoon cinnamon",
+        "Pinch of salt",
+        "5 tablespoons butter, melted"
+    ],
+    "recipeInstructions": [{
+        "@type": "HowToStep",
+        "text": "Heat oven to 375°F"
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/-uwOIB6L5TykbPeFpBBjJMw0MIs=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__10__Dutch-Apple-Pie-METHOD-6-0618f8763c7f4c388333c0361f33fa9e.jpg",
+            "height": 800,
+            "width": 1200
+        },
+        "text": "Roll out the crust: On a surface sprinkled with flour, using a floured rolling pin, roll pastry dough into a circle 2 inches larger than a 9-inch pie plate. Fold the pastry over the rolling pin, lift it up and place it in the pie plate. Gently press the pastry into the bottom and sides of the pie plate. Fold and crimp the pie dough around the rim of the pie plate. Transfer it to the refrigerator."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/gjHubx9fv_xYc5TRUQpwqSPZg8k=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__10__Dutch-Apple-Pie-METHOD-4-677f9f3b9cdd484f92478b633aca1587.jpg",
+            "height": 800,
+            "width": 1200
+        },
+        "text": "Make the topping: In a small bowl, combine flour, pecans, brown sugar, granulated sugar, cinnamon, and salt. Pour melted butter over the bowl in a circular motion and toss with a fork."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/KWdPBsP6RpMJgrTN1Nkvasz5tc0=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__10__Dutch-Apple-Pie-METHOD-11-0f2cbc90d40e453a884b3520e0f37183.jpg",
+            "height": 800,
+            "width": 1200
+        },
+        "text": "Make the filling: In a large bowl, combine apples, sugar, flour, lemon juice, cinnamon, nutmeg, and clove and toss with your hands."
+    }, {
+        "@type": "HowToStep",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.simplyrecipes.com/thmb/50lNknbw44eb18VLY48MrhNjJuc=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__10__Dutch-Apple-Pie-METHOD-13-f994a367ede14e8db0a62aa67e5924d3.jpg",
+            "height": 800,
+            "width": 1200
+        },
+        "text": "Assemble and bake the pie: Retrieve the pie crust from the refrigerator. Pour the apples into the pie plate, arrange them a bit so they fit, then sprinkle the apples with the crumble topping. Place in oven to cook at 375°F for 55 min. If it looks like the edges of the pie are getting too browned, cover them with an aluminum foil strip."
+    }, {
+        "@type": "HowToStep",
+        "text": "Serve: Let the pie cool on a cooling rack for about 30 minutes. Then slice and top with freshly whipped cream or vanilla ice cream and caramel."
+    }],
+    "recipeYield": "8",
+    "totalTime": "PT85M",
+    "review": [{
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Amani"
+            },
+            "reviewBody": "Can we use the regular apple pie recipe and make the topping for the Dutch Apple pie and put it on top of the regular apple pie?"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Chris"
+            },
+            "reviewBody": "I just had an apple pie last night that used Honeycrisp apples. Yes, they are more expensive, but my gosh well worth it. Probably the best apple pie I have ever had. I may use them in the next apple pie I make."
+        }
+    ],
+    "mainEntityOfPage": {
+        "@type": ["WebPage"],
+        "@id": "https://www.simplyrecipes.com/recipes/dutch_apple_pie/",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/dessert-recipes-by-type-5091493",
+                        "name": "Desserts By Type"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/pie-recipes-5091443",
+                        "name": "Pies"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://www.simplyrecipes.com/recipes/dutch_apple_pie/",
+                        "name": "Dutch Apple Pie"
+                    }
+                }
+            ]
+        }
+    },
+    "about": []
+}
