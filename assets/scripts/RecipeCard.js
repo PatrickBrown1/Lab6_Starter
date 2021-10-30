@@ -160,7 +160,8 @@ class RecipeCard extends HTMLElement {
     const ing = document.createElement('p');
     ing.className = "ingredients";
     const ingredientsList = searchForKey(data, "recipeIngredient");
-    ing.innerText = ingredientsList.join(", ");
+    const ingredients = createIngredientList(ingredientsList);
+    ing.innerText = ingredients;
     card.appendChild(ing);
     this.shadowRoot.append(card, styleElem);
   }
